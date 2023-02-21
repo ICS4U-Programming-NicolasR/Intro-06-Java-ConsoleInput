@@ -1,5 +1,3 @@
-package test;
-
 import java.util.Scanner;
 /**
 * Print statements with proper style check.
