@@ -1,3 +1,5 @@
+package com.Intro-06-Java-ConsoleInput
+
 import java.util.Scanner;
 
 /**
